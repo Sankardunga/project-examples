@@ -18,6 +18,7 @@ package org.gradle.api;
 
 import org.gradle.apiImpl.Impl;
 import org.gradle.shared.Person;
+import org.apache.http.client.HttpClient;
 
 import java.util.ArrayList;
 
